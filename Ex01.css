@@ -1,0 +1,12 @@
+button {
+  /* thiết lập kích thước chữ trong nút  */
+  font-size: 18px;
+  /* khoảng cách giữa nội dung  của nút và đường viền  */
+  padding: 10px;
+  /* tạo khoảng cách bên ngoài nút  */
+  margin: 5px;
+  /* khi trỏ chuột vào nút sẽ hiển thị lên hình bàn tay  */
+  cursor: pointer;
+  /*  cho bo góc nút cho đẹp hơn */
+  border-radius: 10px;
+}
